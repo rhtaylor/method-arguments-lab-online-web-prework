@@ -1,4 +1,4 @@
 def introduction(name)
-  phrase = "Yo #{name}"
+  phrase = "Hi, my name is#{name}"
   puts phrase
 end
